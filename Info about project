@@ -1,2 +1,3 @@
 The file with name CONTACT contains the functions
-The file with name op_sqlite is the main file which takes user inputs and does operations on contact app.
+The file with name op_sql is the main file which takes user inputs and does operations on contact app.
+I have imported the functions using from contact import*  to import all the functions to the main file 
